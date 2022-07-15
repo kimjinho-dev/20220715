@@ -58,7 +58,7 @@
 ### (2) git push origin master
   - 커밋된것을 원격저장소에 업로드
 ### (3) git config --global user.name "github username"
-    git config --global user.email "github email"
+###     git config --global user.email "github email"
   - 최초1회만 하면되긴하는데 자꾸 까먹는다.
 ### (4) 터미널은 ctrl+v 불가능하다.
   - 따라서 c+v가 아니라 쓸거쓰고 우클릭-paste로 해야한다.
@@ -74,5 +74,8 @@
 
 ----
 ## 복습하면서 또 까먹은거
-### 열심히 push pull만 하더니 clone하는것도 까먹음.. 정신좀 차리자.
-### 
+### 1. 열심히 push pull만 하더니 clone하는것도 까먹음.. 정신좀 차리자.
+### 2. 수정한뒤에는 저장을 하고 wd에 올리고 커밋하자..
+### 3. python에서 range() 는 (0,3) 일시 0,1,2 값이다. 이를 배열에서까지 사용하면
+###    list[0],list[1],list[2]이다. 잘 생각해서 사용하자
+
